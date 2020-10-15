@@ -2,6 +2,8 @@
 #include<iostream>
 #include"Point.h"
 #include"Vecteur3d.h"
+#include"matrice.h"
+#include"vect.h"
 
 int main()
 {
@@ -35,7 +37,11 @@ int main()
 
 	//-------------------------------------------------------------------------------------------------------------------------------------
 	//83
+	matrice mat1;
 
+	vect vect1(2, 3, 6);
+
+	prod(mat1, vect1);
 
 	return 0;
 }

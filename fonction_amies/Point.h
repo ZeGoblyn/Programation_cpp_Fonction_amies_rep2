@@ -4,6 +4,9 @@
 #include<iostream>
 
 class Point
+//BUT Création de la classe point et déclaration des constructeur et classe amie "affichage"
+//ENTREE
+//SORTIE
 {
 private:
 	int X, Y;

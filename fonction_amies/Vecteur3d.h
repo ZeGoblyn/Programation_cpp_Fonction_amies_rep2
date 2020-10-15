@@ -4,6 +4,9 @@
 #include<iostream>
 
 class vecteur3d
+//BUT Création d'une classe vecteur3d  et déclaration des constructeur et de la fonction amie "coincide"
+//ENTREE
+//SORTIE
 {
 private:
 	float x, y, z;
